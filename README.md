@@ -10,9 +10,9 @@ To understand the factors that make a password strong by creating multiple passw
 ## 🧠 Methodology
 1. Created **five passwords** with varying levels of complexity.  
 2. Tested each using:
-   o	https://bitwarden.com/password-strength/
-   o	https://passwordmeter.com/
-   o	https://www.security.org/how-secure-is-my-password/
+   -	https://bitwarden.com/password-strength/
+   -	https://passwordmeter.com/
+   -	https://www.security.org/how-secure-is-my-password/
 3. Compared the strength ratings and estimated crack times.
 4. Summarized key takeaways about password security.
 
@@ -69,9 +69,9 @@ To understand the factors that make a password strong by creating multiple passw
 ---
 
 ## 🔗 Tools Used
-o	https://bitwarden.com/password-strength/
-o	https://passwordmeter.com/
-o	https://www.security.org/how-secure-is-my-password/
+-	https://bitwarden.com/password-strength/
+-	https://passwordmeter.com/
+-	https://www.security.org/how-secure-is-my-password/
 
 ---
 
